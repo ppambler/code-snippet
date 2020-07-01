@@ -12,3 +12,13 @@ code snippet
   - 为什么用这个代码片段？
   - 你的代码片段是什么？
   - 如何使用这代码片段？
+
+## ★Where？
+
+去哪儿找代码片段？
+
+1. cookbook
+2. Stack Overflow
+3. 到 github 里边搜罗基友们的 util 库
+4. medium
+5. ……
