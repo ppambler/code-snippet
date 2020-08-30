@@ -19,6 +19,6 @@
 
 1. cookbook
 2. Stack Overflow
-3. 到 github 里边搜罗基友们的 util 库
+3. 到 github 里边搜罗各大开发者的 util 库
 4. medium
 5. ……
